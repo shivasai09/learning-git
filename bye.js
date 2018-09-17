@@ -1,3 +1,3 @@
-function bye(name){
+function bye(name,id){
     console.log(name)
 }
